@@ -68,6 +68,7 @@ In order to check if there is significant difference in the proportions, we will
 **Alternative Hypothesis (n1) : The change in the Marketing Channel effectiveness is significant and must be investigated.¶**
 
 Results of the Hypothesis test:
+
 ![hyptable](https://user-images.githubusercontent.com/40240678/125198511-d0fe9000-e27f-11eb-9c79-5b1e5bd0829c.PNG)
 
 Insights: 
