@@ -55,7 +55,7 @@ Percent contribution of channels to brand awareness growth in December :
 
 ![dec_table](https://user-images.githubusercontent.com/40240678/125198412-5e8db000-e27f-11eb-8256-c79699a87e85.PNG)
 
-Percent contribution of channels to brand awareness growth in January :
+Percent/proportion contribution of channels to brand awareness growth in January :
 
 ![table_jan](https://user-images.githubusercontent.com/40240678/125198422-66e5eb00-e27f-11eb-9eeb-4dcec3a9dc0c.PNG)
 
