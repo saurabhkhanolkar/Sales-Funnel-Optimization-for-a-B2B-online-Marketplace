@@ -82,7 +82,7 @@ Let us investigate which channels are crucial for maintaining the brand awarenes
 
 ![Channel Performance](https://user-images.githubusercontent.com/40240678/125198539-dcea5200-e27f-11eb-921e-43310eb50f3a.PNG)
 
-Insights: There are major channels that maintain brand awareness:
+Insights: There are 3 major channels that maintain brand awareness:
 1) Organic Search
 
 2) Paid search
