@@ -69,6 +69,7 @@ In order to check if there is significant difference in the proportions, we will
 
 Results of the Hypothesis test:
 ![hyptable](https://user-images.githubusercontent.com/40240678/125198511-d0fe9000-e27f-11eb-9c79-5b1e5bd0829c.PNG)
+
 Insights: 
 There was a 20% increase (30% to 36%) in the contribution (proportion) of organic searches towards leads generation in the period of growth. This is a **statistically significant result.**
 
