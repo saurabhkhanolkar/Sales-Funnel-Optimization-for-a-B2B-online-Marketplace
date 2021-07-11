@@ -35,7 +35,7 @@ The data contains information about 3 major factors:
 ![Leadspermonth](https://user-images.githubusercontent.com/40240678/125198373-3bfb9700-e27f-11eb-8abd-c15c54d67236.PNG)
 
 - A growth of 550% from Dec 2017 - Jan 2018 in the brand awareness is observed.
-- This growth is further analyzed to identify the key drivers of brand awareness growth
+- This growth is further analyzed to identify the key drivers of brand awareness/top of funnel/leads growth
 
 #### 2) Two factors pertaining to the growth are analysed:
 
