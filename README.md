@@ -108,3 +108,38 @@ Out of the 3, organic traffic drives growth in Brand awareness, as discussed pre
 - 'b76ef37428e6799c421989521c0e5077' and '22c29808c4f815213303f8933030604c' bring in significantly more leads than the others.
 
 - The goal is to replicate the success of the above two landing pages. This can be done efficiently through further experimentation via A/B testing.
+
+
+# Key take aways, Actionable Conclusions and Further Plan of Action:
+
+## Key Take aways:
+1) There was a 550% increase in growth in the leads generated in the month of January 2018
+
+#### Marketing Channel effectiveness:
+
+2) This growth was driven by Organic traffic, the contribution of which, towards lead generation increased by massive 20%. This is a statistcally significant result.
+
+3) The channels that maintain Lead generation are Paid search and Social Media Marketing. 
+
+#### Landing Pages: 
+4) 495 Landing pages were developed out of which 58(11.7%) Landing pages bring in 80% of the leads.
+
+5) 'b76ef37428e6799c421989521c0e5077' and '22c29808c4f815213303f8933030604c' bring in significantly more leads than the others.
+
+
+## From the above take aways we conclude that:
+
+1) The growth pattern of January 2018 can be replicated by driving organic traffic to the landing pages.
+
+2) With respect to the Landing pages, the goal is to replicate the success of 'b76ef37428e6799c421989521c0e5077' and '22c29808c4f815213303f8933030604c'. 
+
+## Further Plan of Action: 
+
+1) The B2B market place must invest heavily in SEO to drive growth in brand awareness. (This could have been quantified had the Marketing Channel investment data been available).
+
+2) To keep a steady inflow of leads coming in, the brand must keep investing in Paid search and Social media marketing. 
+
+3) To replicate the success of 'b76ef37428e6799c421989521c0e5077' and '22c29808c4f815213303f8933030604c' the marketplace must  conduct further experimentation via A/B testing.
+    ![SalesFunnel](https://user-images.githubusercontent.com/40240678/125198266-d3acb580-e27e-11eb-81e5-12329cc1cbed.PNG)
+![SalesFunnel](https://user-images.githubusercontent.com/40240678/125198271-df987780-e27e-11eb-8684-522f71d4cc12.PNG)
+
