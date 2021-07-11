@@ -50,7 +50,7 @@ ii) Marketing Channels
 - Organic Search brought in the most number of leads throughout the span of an year.
 - Performance of the channels is analyzed over the period of growth (Dec 2017 - Jan 2018) to figure out which channel drives growth 
 
-Percent contribution of channels to brand awareness growth in December :
+Percent/proportion contribution of channels to brand awareness growth in December :
 
 
 ![dec_table](https://user-images.githubusercontent.com/40240678/125198412-5e8db000-e27f-11eb-8256-c79699a87e85.PNG)
