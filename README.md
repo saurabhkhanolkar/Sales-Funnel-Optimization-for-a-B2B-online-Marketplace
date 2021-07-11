@@ -59,9 +59,7 @@ Percent contribution of channels to brand awareness growth in January :
 
 ![table_jan](https://user-images.githubusercontent.com/40240678/125198422-66e5eb00-e27f-11eb-9eeb-4dcec3a9dc0c.PNG)
 
-We have the contribution of the marketing channels to growth in Dec 2017 and Jan 2018.
-
-Let us compare them and investigate what worked out for the Marketplace.
+Now that we have a clear picture of the contribution of the different marketing channels to the DEC 2017 - JAN 2018 growth in brand awareness, let us compare them and investigate what worked out for the Marketplace.
 
 In order to check if there is significant difference in the proportions, we will perform Hypothesis Testing (One population proportion testing).
 
