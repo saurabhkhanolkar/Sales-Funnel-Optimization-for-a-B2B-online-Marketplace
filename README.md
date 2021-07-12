@@ -146,5 +146,5 @@ Out of the 3, organic traffic drives growth in Brand awareness, as discussed pre
 
 2) To keep a steady inflow of leads coming in, the brand must keep investing in Paid search and Social media marketing. 
 
-3) To replicate the success of 'b76ef37428e6799c421989521c0e5077' and '22c29808c4f815213303f8933030604c' the marketplace must  conduct further experimentation via A/B testing.
+3) To replicate the success of 'b76ef37428e6799c421989521c0e5077' and '22c29808c4f815213303f8933030604c' the marketplace must  conduct further experimentation of the landing pages via A/B testing.
  
