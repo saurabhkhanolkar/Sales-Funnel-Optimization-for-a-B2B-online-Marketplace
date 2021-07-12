@@ -26,7 +26,7 @@ The data contains information about 3 major factors:
 # Analysis methodology and overview:
 
 ### Key metric being tracked:
-- The key metric being tracked is the number of leads generated.
+- The key metric being tracked is the number of leads generated per month.
 
 ### Analysis methodology followed:
  
