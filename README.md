@@ -138,6 +138,7 @@ Out of the 3, organic traffic drives growth in Brand awareness, as discussed pre
 ## Further Plan of Action: 
 
 1) The B2B market place must invest heavily in SEO to drive growth in brand awareness. (This could have been quantified had the Marketing Channel investment data been available).
+
     3 reasons for this action are:
     - Organic searches have contributed the most to lead generation.
     - It has been statistically tested that Organic traffic has driven growth in brand awareness.
