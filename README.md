@@ -61,7 +61,7 @@ Percent/proportion contribution of channels to brand awareness growth in January
 
 Now that we have a clear picture of the percent/proportion contribution of the different marketing channels to the DEC 2017 - JAN 2018 growth in brand awareness and lead generation, let us compare them and investigate which channel worked out for the Marketplace.
 
-In order to check if there is significant difference in the proportions, we will perform **Hypothesis Testing (One population proportion testing).**
+In order to check if there is significant difference in the proportions, we will perform **Hypothesis Testing (Two Sample T test testing).**
 
 **Null Hypothesis (n0) : There is no significant change in the proportions of the . Any change observed is purely due to chance.**
 
