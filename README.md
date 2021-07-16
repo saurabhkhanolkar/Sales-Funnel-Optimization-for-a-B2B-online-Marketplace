@@ -63,7 +63,7 @@ Now that we have a clear picture of the percent/proportion contribution of the d
 
 In order to check if there is significant difference in the proportions, we will perform **Hypothesis Testing (Two proportion test).**
 
-**Null Hypothesis (n0) : There is no significant change in the proportions of the . Any change observed is purely due to chance.**
+**Null Hypothesis (n0) : There is no significant change in the contribution/proportion of the corresponding channels in December and January . Any change observed is purely due to chance.**
 
 **Alternative Hypothesis (n1) : The change in the Marketing Channel effectiveness is significant and must be investigated.¶**
 
